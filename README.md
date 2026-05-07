@@ -51,9 +51,7 @@ These cases are designed for **Smol Stacked SlimeVR** builds using:
 
 ### Tips
 
-- Print a test fit before committing to a full set
-- Ensure your printer is calibrated for accurate tolerances
-- Some parts may require light sanding for a perfect fit
+- Print a test fit before mass printing
 
 ---
 
