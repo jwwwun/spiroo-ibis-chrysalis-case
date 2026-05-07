@@ -4,7 +4,7 @@
 
 | Render | IRL |
 |--------|-----|
-| ![Render of 38mm chest case](image.png) | ![38mm chest and strap worn IRL](IMG_0994.png) |
+| ![Render of 38mm chest case](misc/image.png) | ![38mm chest and strap worn IRL](misc/IMG_0994.png) |
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Platform: SlimeVR](https://img.shields.io/badge/Platform-SlimeVR-blueviolet)
@@ -20,11 +20,12 @@
 | `spiroo ibis chrysalis 38mm case.stl` | Main tracker case body (38mm) |
 | `spiroo ibis chrysalis chest case 38mm.stl` | Chest-mount variant (38mm) |
 | `Lid.stl` | Lid for the case |
-| `knight-blend-file2.blend` | Blender source file used to edit the cases... contains other stuff, good luck!!!!! |
+| `knight-blend-file2.blend` | Blender source file used to edit the cases — contains other stuff, good luck |
 
 | 25mm | 38mm | Lid |
 |------|------|-----|
-| ![25mm case](LszLnlxTl3.png) | ![38mm case](HXMxwsJkVQ.png) | ![Lid](oZ6zFrmVzF.png) |
+| ![25mm case](misc/LszLnlxTl3.png) | ![38mm case](misc/HXMxwsJkVQ.png) | ![Lid](misc/oZ6zFrmVzF.png) |
+
 
 
 ---
