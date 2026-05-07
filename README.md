@@ -2,6 +2,10 @@
 
 > 3D-printed tracker cases for **Smol Stacked SlimeVR** builds, designed around the Chrysalis IMU module.
 
+| Render | IRL |
+|--------|-----|
+| ![Render of 38mm chest case](image.png) | ![38mm chest and strap worn IRL](IMG_0994.png) |
+
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Platform: SlimeVR](https://img.shields.io/badge/Platform-SlimeVR-blueviolet)
 ![Material: PLA/PETG](https://img.shields.io/badge/Material-PLA%20%7C%20PETG-green)
