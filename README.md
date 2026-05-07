@@ -12,7 +12,7 @@
 
 ---
 
-## 📦 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 Compatible Components
+## Compatible Components
 
 These cases are designed for **Smol Stacked SlimeVR** builds using:
 
@@ -40,7 +40,7 @@ These cases are designed for **Smol Stacked SlimeVR** builds using:
 
 ---
 
-## 🖨️ Print Settings
+## Print Settings
 
 | Setting | Value |
 |---------|-------|
@@ -55,7 +55,7 @@ These cases are designed for **Smol Stacked SlimeVR** builds using:
 
 ---
 
-## ⚖️ License & Attribution
+## License & Attribution
 
 This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
@@ -77,7 +77,7 @@ See [`LICENSE`](./LICENSE) for full license text.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 | Creator | Work | License |
 |---------|------|---------|
