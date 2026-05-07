@@ -12,9 +12,9 @@
 
 | File | Description |
 |------|-------------|
+| `spiroo ibis chrysalis 25mm case.stl` | Miro v1.1 25mm base, edited for Chrysalis Ibis compatibility |
 | `spiroo ibis chrysalis 38mm case.stl` | Main tracker case body (38mm) |
 | `spiroo ibis chrysalis chest case 38mm.stl` | Chest-mount variant (38mm) |
-| `Miro v1.1 25mm - Chrysalis Ibis Edit2.stl` | Miro v1.1 25mm base, edited for Chrysalis Ibis compatibility |
 
 ---
 
