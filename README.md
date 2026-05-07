@@ -20,7 +20,7 @@
 | `spiroo ibis chrysalis 38mm case.stl` | Main tracker case body (38mm) |
 | `spiroo ibis chrysalis chest case 38mm.stl` | Chest-mount variant (38mm) |
 | `Lid.stl` | Lid for the case |
-| `knight-blend-file2.blend` | Blender source file used to edit the cases — contains other stuff, good luck |
+| `knight-blend-file2.blend` | Blender source file used to edit the cases.... contains other stuff, good luck!!! |
 
 | 25mm | 38mm | Lid |
 |------|------|-----|
@@ -36,7 +36,7 @@ These cases are designed for **Smol Stacked SlimeVR** builds using:
 
 - **MCU:** SuperMini NRF52840
 - **IMU:** Various supported sensors (primarily ICM-45686)
-- **Battery:** Small LiPo cells appropriate for case dimensions — **401230**
+- **Battery:** Small LiPo cells appropriate for case dimensions. **401230** Refer to last IRL image to see the space.
 
 ---
 
@@ -63,7 +63,7 @@ This project is licensed under **Creative Commons Attribution-NonCommercial-Shar
 
 ### Based on / derived from:
 
-- **Ibis Trackers & Chrysalis Trackers** © 2025 by Bris Ibis: [github.com/brisfknibis/Chrysalis-Trackers](https://github.com/brisfknibis/Chrysalis-Trackers/tree/main) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Ibis Trackers & Chrysalis Trackers** © 2025 by Bris Ibis: [github.com/brisfknibis/Chrysalis-Trackers](https://github.com/brisfknibis/Chrysalis-Trackers/tree/main). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Miro Cases** by spironoo: [github.com/spironoo/miro-cases](https://github.com/spironoo/miro-cases) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 You are free to:
