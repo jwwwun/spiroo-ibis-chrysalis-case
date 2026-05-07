@@ -4,7 +4,7 @@
 
 | Render | IRL |
 |--------|-----|
-| ![Render of 38mm chest case](misc/image.png) | ![38mm chest and strap worn IRL](misc/IMG_0994.png) |
+| ![Render of 38mm chest case](misc/image.png) | ![38mm chest and strap worn IRL](misc/aoZA23dv3t.png) |
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Platform: SlimeVR](https://img.shields.io/badge/Platform-SlimeVR-blueviolet)
