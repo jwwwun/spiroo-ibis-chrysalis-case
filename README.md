@@ -49,7 +49,7 @@ These cases are designed for **Smol Stacked SlimeVR** builds using:
 |---------|-------|
 | Layer Height | 0.2mm |
 | Infill | 15–20% |
-| Supports | Automatic is OK — manual supports recommended |
+| Supports | Automatic is OK |
 | Material | PLA or PETG |
 
 ### Tips
@@ -66,17 +66,17 @@ This project is licensed under **Creative Commons Attribution-NonCommercial-Shar
 
 ### Based on / derived from:
 
-- **Ibis Trackers & Chrysalis Trackers** © 2025 by Bris Ibis — [github.com/brisfknibis/Chrysalis-Trackers](https://github.com/brisfknibis/Chrysalis-Trackers/tree/main) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- **Miro Cases** by spironoo — [github.com/spironoo/miro-cases](https://github.com/spironoo/miro-cases) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Ibis Trackers & Chrysalis Trackers** © 2025 by Bris Ibis: [github.com/brisfknibis/Chrysalis-Trackers](https://github.com/brisfknibis/Chrysalis-Trackers/tree/main) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Miro Cases** by spironoo: [github.com/spironoo/miro-cases](https://github.com/spironoo/miro-cases) — licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+- **Share**: copy and redistribute the material in any medium or format
+- **Adapt**: remix, transform, and build upon the material
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit to all original creators
-- **NonCommercial** — You may not use the material for commercial purposes
-- **ShareAlike** — If you remix or build upon this material, you must distribute your contributions under the same license
+- **Attribution**: You must give appropriate credit to all original creators
+- **NonCommercial**: You may not use the material for commercial purposes
+- **ShareAlike**: If you remix or build upon this material, you must distribute your contributions under the same license
 
 See [`LICENSE`](./LICENSE) for full license text.
 
